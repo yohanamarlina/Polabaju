@@ -14,7 +14,7 @@ Just a simple Landing Page of Pola Baju Instan.
 
 
 # Landing Page Of Pola Baju Instan Mobile Version
-![mobile version](https://user-images.githubusercontent.com/72326424/127867372-119ccded-d356-4efc-aeba-0ed8e7d411c2.png)
+![mobile version](https://user-images.githubusercontent.com/72326424/129286155-0111809c-da60-4485-8570-b2a870a17f31.png)
 
 
 # Demo
