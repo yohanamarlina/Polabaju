@@ -2,11 +2,11 @@
 Just a simple Landing Page of Pola Baju Instan.
 
 
-# Make this with :
-- HTML 5
-- BOOTSTRAP 5
+# Made this with :
+- Html 5
+- Bootstrap 5
 - Internal CSS
-- JS
+- Javascript
 
 
 # Landing Page Of Pola Baju Instan Desktop Version
